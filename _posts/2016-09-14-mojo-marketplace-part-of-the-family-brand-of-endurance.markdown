@@ -25,3 +25,4 @@ WordPress All In One: WordPress installation included in this comprehensive star
 WordPress Theme Training: With MOJO theme expert this service includes 30-minute phone training.
 
 To bring MOJO Marketplace to users of HostGator in an innovative and personal way. Best themes, services and offers of MOJO are brought with this integration to manage customer's website. For long time company has been developing forward.
+<script type='text/javascript'  src ='https://www.sitegeek.com/company-visit/product_widget.jsp?first=65552&second=award'></script><div id='sitegeek_cmp_award_65552' style='width: auto;'><img src='https://www.sitegeek.com/img/loader.gif' alt='loading..'></div>
