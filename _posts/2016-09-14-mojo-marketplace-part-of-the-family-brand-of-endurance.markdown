@@ -3,8 +3,6 @@ published: false
 title: MOJO Marketplace, part of the family brand of Endurance
 layout: post
 ---
-<img src="mojomarketplace.jpg" alt="mojo marketplace" width="400" height="300" />
-
 HostGator is a brand of Endurance International Group family and leading provider of web hosting, cloud technology, and web presence solutions for small business. It is providing unlimited disk space, bandwidth, and 1-Click Script Installs.
 
 The company has announced the integration of MOJO Marketplace into a platform of technology. Shared hosting customers are allowed by HostGator to purchase templates, themes, and WordPress services through QuickInstall accessed from control panel directly.
@@ -17,8 +15,6 @@ Building an online presence simple by the company to make a focus of customers o
 Microservices which are MOJO Marketplace's popular services are available to take an average of 2-3 days to purchase and complete for a one-time fee. Most popular micro-services are:
 
 Make WordPress Site look like Theme Demo: For complex customization and setup, many users not prepared for WordPress theme. Theme installation required by this service and WordPress site look like theme demo by expertise. Customers can replace demo text and images with their own while installing demo content, despite starting from scratch.
-
-<img src="mojomarketplacea.jpg" alt="mojo marketplace" width="400" height="300"/>
 
 WordPress All In One: WordPress installation included in this comprehensive starter kit. Installation is done on theme installation, domain, backup, demo setup, WordPress SEO/SEM Sitemap, a $49 theme credit, WordPress Theme training and WordPress Site Security.
 
