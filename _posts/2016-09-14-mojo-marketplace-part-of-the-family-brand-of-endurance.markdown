@@ -3,7 +3,7 @@ published: true
 title: MOJO Marketplace, part of the family brand of Endurance
 layout: post
 ---
-<a href="https://www.sitegeek.com/hostgator" title="mojo marketplace"> <img src="https://ananovareviews.files.wordpress.com/2016/09/mojomarketplace.jpg" alt="mojo marketplace" width="400" height="300" title="mojo marketplace"></a>
+<a href="https://www.sitegeek.com/hostgator" title="mojo marketplace"> <img src="https://ananovareviews.files.wordpress.com/2016/09/mojomarketplace.jpg" alt="mojo marketplace" width="400" height="300" title="mojo marketplace" style="align:left;"></a>
 
 HostGator is a brand of Endurance International Group family and leading provider of web hosting, cloud technology, and web presence solutions for small business. It is providing unlimited disk space, bandwidth, and 1-Click Script Installs.
 
