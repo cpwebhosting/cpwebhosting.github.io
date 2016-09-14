@@ -2,6 +2,7 @@
 published: false
 title: MOJO Marketplace, part of the family brand of Endurance
 layout: post
+permalink: https://tinypress.co/edit/_posts/2016-09-14-mojo-marketplace-part-of-the-family-brand-of-endurance.markdown
 ---
 <img src="mojomarketplace.jpg" alt="mojo marketplace" width="400" height="300">
 
