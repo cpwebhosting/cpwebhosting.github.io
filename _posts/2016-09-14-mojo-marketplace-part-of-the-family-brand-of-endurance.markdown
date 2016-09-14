@@ -5,7 +5,7 @@ layout: post
 ---
 <a href="https://www.sitegeek.com/hostgator" title="mojo marketplace"> <img src="https://ananovareviews.files.wordpress.com/2016/09/mojomarketplace.jpg" alt="mojo marketplace" width="400" height="300" title="mojo marketplace" style="float:left;  margin:5px;"></a>
 
-<p style="text-align:justify;"><b><u>HostGator</b></u> is a brand of Endurance International Group family and leading provider of web hosting, cloud technology, and web presence solutions for small business. It is providing unlimited disk space, bandwidth, and 1-Click Script Installs.</p>
+<p style="text-align:justify;"><b>HostGator</b> is a brand of Endurance International Group family and leading provider of web hosting, cloud technology, and web presence solutions for small business. It is providing unlimited disk space, bandwidth, and 1-Click Script Installs.</p>
 
 <p style="text-align:justify;">The company has announced the integration of MOJO Marketplace into a platform of technology. Shared hosting customers are allowed by HostGator to purchase templates, themes, and WordPress services through QuickInstall accessed from control panel directly.</p>
 
@@ -24,4 +24,4 @@ Building an online presence simple by the company to make a focus of customers o
 
 <p style="text-align:justify;"><b>WordPress Theme Training:</b> With MOJO theme expert this service includes 30-minute phone training.</p>
 
-<p style="text-align:justify;">To bring MOJO Marketplace to users of<u> <b>HostGator</b></u> in an innovative and personal way. Best themes, services and offers of MOJO are brought with this integration to manage customer's website. For long time company has been developing forward.</p>
+<p style="text-align:justify;">To bring MOJO Marketplace to users of <b>HostGator</b> in an innovative and personal way. Best themes, services and offers of MOJO are brought with this integration to manage customer's website. For long time company has been developing forward.</p>
