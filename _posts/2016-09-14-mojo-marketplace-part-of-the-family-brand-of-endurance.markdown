@@ -26,4 +26,3 @@ WordPress Theme Training: With MOJO theme expert this service includes 30-minute
 
 To bring MOJO Marketplace to users of HostGator in an innovative and personal way. Best themes, services and offers of MOJO are brought with this integration to manage customer's website. For long time company has been developing forward.
 
-<script type='text/javascript'  src ='https://www.sitegeek.com/company-visit/home_category.jsp?first=ecommerce_hosting'></script><div id='sitegeek_home_cate_ecommerce_hosting' style='width: auto;'><img src='https://www.sitegeek.com/img/loader.gif' alt='loading..'></div><noscript>Powered by <a href='https://www.sitegeek.com/category/ecommerce-hosting' title='Best Ecommerce Hosting Companies'>SiteGeek</a></noscript>
