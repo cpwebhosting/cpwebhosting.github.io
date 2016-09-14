@@ -2,7 +2,6 @@
 published: false
 title: MOJO Marketplace, part of the family brand of Endurance
 layout: post
-permalink: https://cpwebhosting.github.io/
 ---
 <img src="mojomarketplace.jpg" alt="mojo marketplace" width="400" height="300">
 
