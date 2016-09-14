@@ -12,7 +12,7 @@ layout: post
 <p style="text-align:justify;">MOJO Marketplace, part of the family brand of Endurance, is a one-stop shop where users can buy latest website plugins, templates, scripts and logos from few most famous open-source applications like Joomla, PrestaShop, Concrete 5, Drupal and WordPress. The company is providing Professional Services includes eCommerce services, SEO, analytics, web design, development and WordPress Services. There are nearly 5,000 different services and products available in the marketplace.</p>
 
 <p style="text-align:justify;">With few mouse clicks, a power of thousands of services and products placed in customer's hands by MOJO Marketplace. To build a web presence for clients makes easier using the benefit of experts help and easy to use products by MOJO. 
-Building an online presence simple by the company to make a focus of customers on a growth of small business. To make excellent collaboration MOJO introduced to <h3>HostGator</h3> family.</p>
+Building an online presence simple by the company to make a focus of customers on a growth of small business. To make excellent collaboration MOJO introduced to <b>HostGator</b> family.</p>
 
 <p style="text-align:justify;">Microservices which are MOJO Marketplace's popular services are available to take an average of 2-3 days to purchase and complete for a one-time fee. Most popular micro-services are:</p>
 
@@ -24,4 +24,4 @@ Building an online presence simple by the company to make a focus of customers o
 
 <p style="text-align:justify;"><b>WordPress Theme Training:</b> With MOJO theme expert this service includes 30-minute phone training.</p>
 
-<p style="text-align:justify;">To bring MOJO Marketplace to users of <h3>HostGator</h3> in an innovative and personal way. Best themes, services and offers of MOJO are brought with this integration to manage customer's website. For long time company has been developing forward.</p>
+<p style="text-align:justify;">To bring MOJO Marketplace to users of <b>HostGator</b> in an innovative and personal way. Best themes, services and offers of MOJO are brought with this integration to manage customer's website. For long time company has been developing forward.</p>
