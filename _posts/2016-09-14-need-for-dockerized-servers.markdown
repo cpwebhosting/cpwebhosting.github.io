@@ -3,7 +3,7 @@ published: true
 title: Need For Dockerized Servers
 layout: post
 ---
-<a href="https://www.sitegeek.com/cloudlinux" title="Dockerized Servers"> <img src="https://ananovareviews.files.wordpress.com/2016/09/dockerized-server.jpg" alt="Dockerized Servers" width="500" height="500" title="Dockerized Servers" style="float:right; margin:5px;"></a>
+<a href="https://www.sitegeek.com/cloudlinux" title="Dockerized Servers"> <img src="https://ananovareviews.files.wordpress.com/2016/09/dockerized-server.jpg" alt="Dockerized Servers" width="500" height="450" title="Dockerized Servers" style="float:right; margin:5px;"></a>
 
 <p style="text-align:justify">WordPress is inarguably most preferred content management system by far for those building a website. Moreover, this is so because it offers many inherent advantages like it is easy to operate, much cheaper than other options, has many existing plugins and more developed each day, SEO becomes achievable and so on. However, a very annoying and sometimes even infuriating problem with WordPress websites is slow loading speed. Ask any developer and they would say that they are constantly looking for solutions that help the loading of WordPress websites faster. Many bloggers and developers who work on WordPress platform are now turning towards "dockerized servers" to serve the same purpose. These "dockerized servers" ensure that you have sufficient resources along with inbuilt cache plugins and a choice to add a CDN and thus helping your website to load blazingly fast.</p>
 
