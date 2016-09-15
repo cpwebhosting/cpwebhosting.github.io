@@ -28,3 +28,5 @@ layout: post
 Maintaining a docker is easy, and it is safe too.</p>
 <b>Conclusion</b>
 <p style="text-align:justify">Using a "Dockerized Server" can help you get many applications running using the same amount of hardware. A lot of money saved in a long term. You can squeeze out maximum performance from a server when it is dockerized.</p>
+
+<script type='text/javascript'  src ='https://www.sitegeek.com/company-visit/home_category.jsp?first=ecommerce_hosting'></script><div id='sitegeek_home_cate_ecommerce_hosting' style='width: auto;'><img src='https://www.sitegeek.com/img/loader.gif' alt='loading..'></div><noscript>Powered by <a href='https://www.sitegeek.com/category/ecommerce-hosting' title='Best Ecommerce Hosting Companies'>SiteGeek</a></noscript>
