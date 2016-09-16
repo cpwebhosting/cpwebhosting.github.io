@@ -3,7 +3,7 @@ published: true
 title: MyTrueHost Review
 layout: post
 ---
-<p text-align="justify"><strong><a href="https://www.sitegeek.com/mytruehost" target="_blank" title="Mytruehost.com">Mytruehost.com</a></strong> offers best and affordable hosting services and technologies to the customers, since 2011. They promise to provide secure, reliable and transparent hosting solutions to businesses and individuals. Their team is highly qualified, technicians and motivated engineers determined to create hosting experience memorable.
+<p style="text-align: justify;fontWeight="bold";><a href="https://www.sitegeek.com/mytruehost" target="_blank" title="Mytruehost.com">Mytruehost.com</a>offers best and affordable hosting services and technologies to the customers, since 2011. They promise to provide secure, reliable and transparent hosting solutions to businesses and individuals. Their team is highly qualified, technicians and motivated engineers determined to create hosting experience memorable.
 <a href="https://www.sitegeek.com/mytruehost" target="_blank"><img src="https://ananovareviews.files.wordpress.com/2016/09/mytruehost-com.jpg" alt="mytruehost-com"  align="right"></a></p>
 <p><b>Click on the Link given below to visit MyTrueHost
 <a href="https://www.sitegeek.com/mytruehost" target="_blank">https://www.sitegeek.com/mytruehost</a></b></p>
