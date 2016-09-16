@@ -10,5 +10,3 @@ layout: post
 
 <p style="text-align: justify;">Services provide features such as unlimited bandwidth, email accounts, web space, domains, MySQL, PHP and all time available support.  Their primary focus is on developing quality products so that they built client satisfaction. Their hosting package includes a 30-day money back guarantee, instant and free setup and fast response by US tech support team available 24/7 via live chat, email or phone.</p>
 
-
-<script type='text/javascript'  src ='https://www.sitegeek.com/company-visit/info_widget.jsp?first=68109&second=1'></script><div id='sitegeek_cmp_info_portrait_68109' style='width:auto;'><img src='https://www.sitegeek.com/img/loader.gif' alt='loading..'></div></div>
