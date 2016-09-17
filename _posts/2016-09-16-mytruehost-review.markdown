@@ -10,4 +10,4 @@ layout: post
 <p>Click on the Link given below to visit MyTrueHost
 <a href="https://www.sitegeek.com/mytruehost" target="_blank">https://www.sitegeek.com/mytruehost</a></p>
 
-<p style="text-align: justify;">Services provide features such as unlimited bandwidth, email accounts, web space, domains, MySQL, PHP and all time available support.  Their primary focus is on developing quality products so that they built client satisfaction. Their hosting package includes a 30-day money back guarantee, instant and free setup and fast response by US tech support team available 24/7 via live chat, email or phone.</p>
+<p style="text-align: justify;text-decoration: none;">Services provide features such as unlimited bandwidth, email accounts, web space, domains, MySQL, PHP and all time available support.  Their primary focus is on developing quality products so that they built client satisfaction. Their hosting package includes a 30-day money back guarantee, instant and free setup and fast response by US tech support team available 24/7 via live chat, email or phone.</p>
