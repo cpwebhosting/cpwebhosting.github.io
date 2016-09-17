@@ -3,7 +3,7 @@ published: true
 title: Flokinet Unique Selling Points
 layout: post
 ---
-<p style="text-align: justify;"><a href="https://www.sitegeek.com/flokinet.is" target="_blank"><img src="https://ananovareviews.files.wordpress.com/2016/09/flokinet-is.jpg" alt="flokinet.is"style="float:right;"/></a></p>
+<p style="text-align: justify;"><a href="https://www.sitegeek.com/flokinet.is" target="_blank"><img src="https://ananovareviews.files.wordpress.com/2016/09/flokinet-is.jpg" alt="flokinet.is"/></a></p>
 Flokinet provides safe harbor for freedom of speech, whistleblower projects and free press since 2012. Thousand+ customers use Flokinet services for personal and business needs.
 Click on the Link given below to visit Flokinet
 <a href="https://www.sitegeek.com/flokinet.is" target="_blank"/>https://www.sitegeek.com/flokinet.is</a>
