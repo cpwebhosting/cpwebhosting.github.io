@@ -3,7 +3,7 @@ published: true
 title: IPage Announce Integrated to Social Media and Technologies 
 layout: post
 ---
-<a href="https://www.sitegeek.com/ipage" title="ipage web hosting"> <img src="https://ananovareviews.files.wordpress.com/2016/09/i-page-webhosting.png" alt="ipage web hosting" width="350" height="450" title="ipage web hosting" style="float:right; margin:5px;"></a>
+<a href="https://www.sitegeek.com/ipage" title="ipage web hosting"> <img src="https://ananovareviews.files.wordpress.com/2016/09/i-page-webhosting.png" alt="ipage web hosting" width="400" height="550" title="ipage web hosting" style="float:right; margin:5px;"></a>
 
 iPage is a part of Endurance International Group and leading provider of web hosting, web presence solutions and cloud technology for small business. If anyone registers a domain through iPage, then there is non-refundable domain fee of $15. The amount invested by a customer is only covered by this fee but provides assurance that they not lose their domain name. For transfer, free or point elsewhere.
 
