@@ -17,5 +17,4 @@ iPage is a part of Endurance International Group and leading provider of web hos
 
 <p style="text-align:justify">To create and maintain Facebook Page is easier for small businesses by establishing their web presence. Online traffic is redirected from web domain to Facebook until the website prompted. Facebook Page plays a major role in driving traffic to their blog or website with more established web presence. More refined customers also can take benefit of Facebook and partnership with eCommerce provider Ecwid to sell their products and services from Facebook page directly.</p>
 
-<p><iframe style="width: 100%;" src="https://cpwebhosting.com/share/best_web_hosting_or_shared_or_monthly_hosting.html" name="Framename" width="370px" height="350px" frameborder="0" scrolling="no"> </iframe></p>
-
+<p style="text-align:justify"><iframe style="width: 100%;" src="https://cpwebhosting.com/share/best_web_hosting_or_shared_or_monthly_hosting.html" name="Framename" width="400px" height="350px" frameborder="0" scrolling="no"> </iframe></p>
