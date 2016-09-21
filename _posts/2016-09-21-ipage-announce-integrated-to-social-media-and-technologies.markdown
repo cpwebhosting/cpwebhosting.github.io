@@ -3,7 +3,7 @@ published: true
 title: IPage Announce Integrated to Social Media and Technologies 
 layout: post
 ---
-<a href="https://www.sitegeek.com/ipage" title="ipage web hosting"> <img src="https://ananovareviews.files.wordpress.com/2016/09/i-page-webhosting.png" alt="ipage web hosting" width="400" height="550" title="ipage web hosting" style="float:right; margin:5px;"></a>
+<a href="https://www.sitegeek.com/ipage" title="ipage web hosting"> <img src="https://ananovareviews.files.wordpress.com/2016/09/i-page-webhosting.png" alt="ipage web hosting" width="350" height="350" title="ipage web hosting" style="float:right; margin:5px;"></a>
 
 <p style="text-align:justify">iPage is a part of Endurance International Group and leading provider of web hosting, web presence solutions and cloud technology for small business. If anyone registers a domain through iPage, then there is non-refundable domain fee of $15. The amount invested by a customer is only covered by this fee but provides assurance that they not lose their domain name. For transfer, free or point elsewhere.</p>
 
@@ -17,4 +17,4 @@ layout: post
 
 <p style="text-align:justify">To create and maintain Facebook Page is easier for small businesses by establishing their web presence. Online traffic is redirected from web domain to Facebook until the website prompted. Facebook Page plays a major role in driving traffic to their blog or website with more established web presence. More refined customers also can take benefit of Facebook and partnership with eCommerce provider Ecwid to sell their products and services from Facebook page directly.</p>
 
-<p><iframe style="" src="https://cpwebhosting.com/share/best_web_hosting_or_shared_or_monthly_hosting.html" name="Framename" width="550px" height="300px" frameborder="0" scrolling="no"> </iframe></p>
+<p><iframe style="" src="https://cpwebhosting.com/share/best_web_hosting_or_shared_or_monthly_hosting.html" name="Framename" width="120px" height="30px" frameborder="0" scrolling="no"> </iframe></p>
