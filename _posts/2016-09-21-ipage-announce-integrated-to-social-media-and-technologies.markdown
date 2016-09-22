@@ -11,7 +11,7 @@ layout: post
 
 <p style="text-align:justify">To better communicate and engage with customers is allowed by online presence provided by customers. Small businesses have to stay relevant and competitive in front of the curve. By expanding and enhancing online presence for their business growth, webmaster adds products and partnerships to help them at Endurance.</p>
 
-<p style="text-align:justify">An easy-to-use tool is provided to customers creating new and manage existing Facebook Pages by integration of Facebook into control panel<strong> iPage. </strong>Clients of iPage can track basic metrics such as Page Likes and change basic information on Facebook Pages. More advanced features such as create Facebook ads, ability to post directly to the Facebook page and boost paid posts included in future enhancements.</p>
+<p style="text-align:justify">An easy-to-use tool is provided to customers creating new and manage existing Facebook Pages by integration of Facebook into control panel <strong> iPage. </strong>Clients of<strong> iPage</strong> can track basic metrics such as Page Likes and change basic information on Facebook Pages. More advanced features such as create Facebook ads, ability to post directly to the Facebook page and boost paid posts included in future enhancements.</p>
 
 <p style="text-align:justify">According to CEO of <strong>iPage,</strong> to be successful online of small business customers, Facebook is important to channel to connect with their clients. At each stage of life cycle regarding small business, active Facebook Page plays a crucial role. This new integration provides great opportunities for small business owners to grab advantage power of Facebook.</p>
 
