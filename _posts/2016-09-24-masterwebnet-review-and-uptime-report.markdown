@@ -3,7 +3,7 @@ published: true
 title:  MasterWebNet Review and Uptime Report
 layout: post
 ---
-<a href="https://www.sitegeek.com/masterwebnet" target="_blank"><img src="https://ananovareviews.files.wordpress.com/2016/09/masterwebnet.jpg" title="Masterweb" /></a>
+<center><a href="https://www.sitegeek.com/masterwebnet" target="_blank"><img src="https://ananovareviews.files.wordpress.com/2016/09/masterwebnet.jpg" title="Masterweb" /></a></center>
 
 
 <p style="text-align: justify;">Masterweb Corp is rated as the number one web hosting provider in Indonesia since 2004. Hosting services provide by Masterweb.net hosting company are website design, internet marketing, colocation, dedicated servers, VPS hosting, web hosting and SSL certificates. It is also an accredited domain name provider and domain name registrar in Indonesia.</p>
